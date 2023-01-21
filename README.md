@@ -12,7 +12,7 @@
 
 - 기술스택 : HTML, CSS, JS <br >
 - 기능 : 유저이름 저장, 투두리스트 작성 및 삭제, 오늘날씨, 랜덤명언 <br >
-- [링크](링크)
+- [링크](https://soohyuneee.github.io/momentum/)
 
 ---
 
