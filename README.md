@@ -8,6 +8,16 @@
 
 이미지
 
+- 메인 화면
+<img width="1440" alt="화면1" src="https://user-images.githubusercontent.com/105588175/213862294-b8afd762-39d3-4f6b-9c26-d40f5dfd687f.png">
+
+- 인사말
+<img width="1440" alt="화면2" src="https://user-images.githubusercontent.com/105588175/213862300-88a60d12-5950-4fe7-875e-31a8bd19c4e4.png">
+
+- 투두리스트
+<img width="1440" alt="화면3" src="https://user-images.githubusercontent.com/105588175/213862304-ed693b4a-ed61-4535-a94f-5f8f355a22d2.png">
+
+
 ---
 
 - 기술스택 : HTML, CSS, JS <br >
