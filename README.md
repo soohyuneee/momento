@@ -2,7 +2,7 @@
 
 ### 모멘텀 클론코딩
 
-(참고) [노마드 코더](https://nomadcoders.co/)
+- [링크](https://soohyuneee.github.io/momentum/)
 
 ---
 
@@ -22,7 +22,6 @@
 
 - 기술스택 : HTML, CSS, JS <br >
 - 기능 : 유저이름 저장, 시계 & 인사말, 랜던배경 & 랜덤명언, 투두리스트 작성 및 삭제, 오늘날씨 <br >
-- [링크](https://soohyuneee.github.io/momentum/)
 
 ---
 
